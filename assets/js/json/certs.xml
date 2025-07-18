@@ -1,0 +1,554 @@
+<certificados>
+    <cert>
+        <nombre>María Adriana García Sánchez</nombre>
+        <id>4f05ccaf-5f90-4108-81be-43052d9548dd</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Ana Laura Anaya Valencia</nombre>
+        <id>efcfcc51-09cc-46f9-9f87-312b7546fa41</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Mariela Aydee Gómez Fernández</nombre>
+        <id>ea5bf784-c0d8-4c83-8929-e0cb0a7c2499</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Angélica Rubín Huitzil</nombre>
+        <id>0dc684dd-43e1-45eb-b102-a0cf8e203f3b</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Jaime Alejandro Domínguez Ruíz</nombre>
+        <id>f8d3e853-114e-4ceb-97ab-f90fbf6cd05c</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Jaime Alejandro Domínguez Ruíz</nombre>
+        <id>f8d3e853-114e-4ceb-97ab-f90fbf6cd05c</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Elsa Landa Martínez</nombre>
+        <id>9cced9d3-fdb0-4a98-9bfe-9b14246f2922</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Hefzi-Ba Ortíz Chimal</nombre>
+        <id>a2209445-6946-4f1e-a6ff-f3f3c99286e2</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Claudia Ivette Pineda Benítez</nombre>
+        <id>147d4132-6686-4e92-92d9-2992aa165e8d</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Tania Yarely Cervantes Santibáñez</nombre>
+        <id>b9f19ef6-5618-4551-8c57-eb53427be35d</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Sari Anaid Pérez Cervantes</nombre>
+        <id>3037573d-2406-405a-ace2-f3c006508e33</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Lizbeth Valeriano Fuentes</nombre>
+        <id>128ee8a8-00ee-4368-bab2-539f9078d670</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Clarissa Itzel Gracia Aguilar</nombre>
+        <id>90b392cd-2728-44a6-9bb9-df0d75ca5c1e</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Fátima Elideth Fabián Rodríguez</nombre>
+        <id>312fab62-8a7f-4226-8a6e-a2fe412828b7</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Cesia Athalia Balcázar Hernández</nombre>
+        <id>ce62390d-496b-48a9-9669-0988d761a9b2</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Arlette Castillo Gil</nombre>
+        <id>7c252d78-fb59-45ed-8852-d1edae06e380</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Itzel Yoselin Flores Salgado</nombre>
+        <id>2e868675-8724-4f79-be8b-1c50893cac8b</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Andrea Aguirre Ramírez</nombre>
+        <id>27a46904-dca1-472c-b548-af832191c401</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Mayra Mildred Martínez Tejeda</nombre>
+        <id>a61b3ae2-1d02-4b00-a528-48fe49f8d681</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Pamela Rosario Meléndez Melgarejo</nombre>
+        <id>dfc48246-e728-4dbc-9d7a-372f9217637b</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Jeniffer Ivonne Hernández Pestaña</nombre>
+        <id>3e4e0f61-bbbe-4c5b-a824-b6c8596441a7</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Alejandra Murillo Sánchez Del Villar</nombre>
+        <id>e34c703e-ee60-4da0-b8d3-d84a3ac13cc2</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Cecilia Condado Picazo</nombre>
+        <id>e13fcc1bf-c045-401e-9408-36294aff62f5</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>José Daniel Chávez Vázquez</nombre>
+        <id>e63750d8-3ea9-4081-8ff5-d0c5c4fac58a</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Lizbeth Lazcano Ortíz</nombre>
+        <id>f51e1f95-4740-4a9e-aa4e-0f2e99a4ab48</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Luis Ángel Bravo Carbajal</nombre>
+        <id>5d07f5b7-b905-4ffb-98dd-e578a81670ec</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Janet Corona Luna</nombre>
+        <id>42313871-4c3d-4bb0-b50e-5b7c7580138f</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Carlos Felipe Morales Baqueiro</nombre>
+        <id>57b0c536-1675-434b-91f5-9634550f4fda</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Josué Muñóz Marroquín</nombre>
+        <id>06c82d27-fe7d-4e54-ac1b-e67ab320afc8</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Estefanía de la Fuente Hernández</nombre>
+        <id>8f76e3ed-c08d-447a-98f1-a920c57bbc1c</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Gabriela Edith Gilbón Saldaña</nombre>
+        <id>f2c8be71-f35c-4250-ae5a-8cd9b364356a</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Pamela Falcón Sánchez</nombre>
+        <id>4543d6ea-4e58-474e-acfd-b487330607ed</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Carlos Alberto Valencia Cortez</nombre>
+        <id>055c4972-2859-4caf-857a-3501a6f3ec9f</id>
+        <curso>INTELIGENCIA EMOCIONAL PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>24</horas>
+        <Instructor>James Lass / Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Héctor David Anaya Andrade</nombre>
+        <id>e30a4303-5642-43ba-adab-24b1523a9c62</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Brenda Olvera Martínez</nombre>
+        <id>ccfd402f-8f0f-40ba-a390-81167e961303</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>María Adriana García Sánchez</nombre>
+        <id>f0f514df-f0ca-40ce-a309-e085420b6f6c</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Ana Laura Anaya Valencia</nombre>
+        <id>2b7a2b84-83e4-4b15-ba2b-cd04aa88e52c</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Mariela Aydee Gómez Fernández</nombre>
+        <id>9802413f-6a8f-45b2-b076-903d0ec572d5</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Angélica Rubín Huitzil</nombre>
+        <id>ed92c953-be06-4065-add3-634711b3fae6</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Juan Manuel Fernández Hernández</nombre>
+        <id>372a7018-3e2e-469f-8ff9-fbc481a5405f</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Jaime Alejandro Domínguez Ruíz</nombre>
+        <id>42aea723-e06a-41e6-ab11-79b6f5108410</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Pamela Rosario Meléndez Melgarejo</nombre>
+        <id>30c22b97-8c0d-4621-80d5-0d6e5b411b8b</id>
+        <curso>LOS CUATRO CUADRANTES / ESTILOS DEL LIDERAZGO PARA LA NOM-035</curso>
+        <fecha>9/8/2024</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Anrod School</negocio>
+        <ciudad>Puebla, Puebla</ciudad>
+    </cert>
+    <cert>
+        <nombre>Mayerli Aponte González</nombre>
+        <id>57b53886-1f06-43aa-95a8-b6c37f202fae</id>
+        <curso>NEUROLIDERAZGO</curso>
+        <fecha>5/12/2024</fecha>
+        <horas>52</horas>
+        <Instructor>James Lass/Leticia Maldonado</Instructor>
+        <dc3>NO</dc3>
+        <certificado>YES</certificado>
+        <negocio>Propio</negocio>
+        <ciudad>Guadalajara, Jalisco</ciudad>
+    </cert>
+    <cert>
+        <nombre>Maribel Angélica Maldonado Escamilla</nombre>
+        <id>57610897-8606-4025-9c26-f2939c3a2265</id>
+        <curso>NEUROLIDERAZGO</curso>
+        <fecha>5/12/2024</fecha>
+        <horas>52</horas>
+        <Instructor>James Lass/Leticia Maldonado</Instructor>
+        <dc3>NO</dc3>
+        <certificado>YES</certificado>
+        <negocio>Propio</negocio>
+        <ciudad>Guadalajara, Jalisco</ciudad>
+    </cert>
+    <cert>
+        <nombre>Gabriela Gómez Guzmán</nombre>
+        <id>e2eaef92-4ba6-4dad-99fd-911ffb69f4e5</id>
+        <curso>NEUROLIDERAZGO</curso>
+        <fecha>5/12/2024</fecha>
+        <horas>52</horas>
+        <Instructor>James Lass/Leticia Maldonado</Instructor>
+        <dc3>NO</dc3>
+        <certificado>YES</certificado>
+        <negocio>Propio</negocio>
+        <ciudad>Guadalajara, Jalisco</ciudad>
+    </cert>
+    <cert>
+        <nombre>LEONID BLADIMIR ROSAS HERNANDEZ</nombre>
+        <id>3afeda3c-1709-4012-9ae9-bc8d85a4d128</id>
+        <curso>ESSENTIAL MANAGEMENT SKILLS</curso>
+        <fecha>25/01/2025</fecha>
+        <horas>6</horas>
+        <Instructor>James Lass/Leticia Maldonado</Instructor>
+        <dc3>YES</dc3>
+        <certificado>YES</certificado>
+        <negocio>Propio</negocio>
+        <ciudad>Guadalajara, Jalisco</ciudad>
+    </cert>
+</certificados>
