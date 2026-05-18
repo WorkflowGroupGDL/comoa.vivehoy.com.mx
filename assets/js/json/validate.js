@@ -1,5 +1,5 @@
 function loadXMLDoc() {
-    fetch('./assets/js/json/certs.xml')
+    fetch('./assets/js/json/certs1.xml')
         .then(response => response.text())
         .then(data => {
             const parser = new DOMParser();
@@ -10,6 +10,22 @@ function loadXMLDoc() {
 }
 
 function searchBooks(xmlDoc) {
+
+    document.getElementById('resultado').innerHTML = '';
+    document.getElementById('result_id').innerHTML = 'ID: ';
+    document.getElementById('result_nombre').innerHTML = 'Nombre: ';
+    document.getElementById('result_curso').innerHTML = 'Programa: ';
+    document.getElementById('result_fecha_inicio').innerHTML = 'Fecha inicio: ';
+    document.getElementById('result_fecha_final').innerHTML = 'Fecha concluida: ';
+    document.getElementById('result_horas').innerHTML = 'Horas totales: ';
+    document.getElementById('result_Instructor').innerHTML = 'Instructor(es): ';
+    document.getElementById('result_dc3').innerHTML = 'DC-3: ';
+    document.getElementById('result_certificado').innerHTML = 'Certificado: ';
+    document.getElementById('result_negocio').innerHTML = 'Negocio/Empresa: ';
+    document.getElementById('result_ciudad').innerHTML = 'Ciudad: ';
+    document.getElementById('result_curp').innerHTML = 'Curp: ';
+    
+
     const searchTerm = document.getElementById("searchTerm").value.toLowerCase();
     const books = xmlDoc.getElementsByTagName("cert");
     const results = [];
@@ -20,7 +36,8 @@ function searchBooks(xmlDoc) {
         const id = books[i].getElementsByTagName("id")[0].textContent.toLowerCase();
         const nombre = books[i].getElementsByTagName("nombre")[0].textContent.toLowerCase();
         const curso = books[i].getElementsByTagName("curso")[0].textContent.toLowerCase();
-        const fecha = books[i].getElementsByTagName("fecha")[0].textContent.toLowerCase();
+        const fecha_inicio = books[i].getElementsByTagName("fecha_inicio")[0].textContent.toLowerCase();
+        const fecha_final = books[i].getElementsByTagName("fecha_final")[0].textContent.toLowerCase();
         const horas = books[i].getElementsByTagName("horas")[0].textContent.toLowerCase();
         const Instructor = books[i].getElementsByTagName("Instructor")[0].textContent.toLowerCase();
         const dc3 = books[i].getElementsByTagName("dc3")[0].textContent.toLowerCase();
@@ -33,14 +50,14 @@ function searchBooks(xmlDoc) {
                 id: books[i].getElementsByTagName("id")[0].textContent,
                 nombre: books[i].getElementsByTagName("nombre")[0].textContent,
                 curso: books[i].getElementsByTagName("curso")[0].textContent,
-                fecha: books[i].getElementsByTagName("fecha")[0].textContent,
+                fecha_inicio: books[i].getElementsByTagName("fecha_inicio")[0].textContent,
+                fecha_final: books[i].getElementsByTagName("fecha_final")[0].textContent,
                 horas: books[i].getElementsByTagName("horas")[0].textContent,
                 Instructor: books[i].getElementsByTagName("Instructor")[0].textContent,
                 dc3: books[i].getElementsByTagName("dc3")[0].textContent,
                 certificado: books[i].getElementsByTagName("certificado")[0].textContent,
                 negocio: books[i].getElementsByTagName("negocio")[0].textContent,
-                ciudad: books[i].getElementsByTagName("ciudad")[0].textContent
-
+                ciudad: books[i].getElementsByTagName("ciudad")[0].textContent,
             });
         }
     }
@@ -90,14 +107,14 @@ function displayResults(results) {
         document.getElementById('result_id').innerHTML = 'ID: ' + result.id;
         document.getElementById('result_nombre').innerHTML = 'Nombre: ' + result.nombre;
         document.getElementById('result_curso').innerHTML = 'Programa: ' + result.curso;
-        document.getElementById('result_fecha').innerHTML = 'Fecha concluida: ' + result.fecha;
+        document.getElementById('result_fecha_inicio').innerHTML = 'Fecha inicio: ' + result.fecha_inicio;
+        document.getElementById('result_fecha_final').innerHTML = 'Fecha concluida: ' + result.fecha_final;
         document.getElementById('result_horas').innerHTML = 'Horas totales: ' + result.horas;
         document.getElementById('result_Instructor').innerHTML = 'Instructor(es): ' + result.Instructor + ' / #Registro Instructor Externo STPS: LAJA-661002-R85-0005';
         document.getElementById('result_dc3').innerHTML = 'DC-3: ' + result.dc3;
         document.getElementById('result_certificado').innerHTML = 'Certificado: ' + result.certificado;
         document.getElementById('result_negocio').innerHTML = 'Negocio/Empresa: ' + result.negocio;
         document.getElementById('result_ciudad').innerHTML = 'Ciudad: ' + result.ciudad;
-
 
     });
 
